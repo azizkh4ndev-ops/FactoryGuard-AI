@@ -1,0 +1,11 @@
+#required libraries
+
+pandas
+numpy
+matplotlib
+seaborn
+xgboost
+lightgbm
+shap
+flask
+joblib
